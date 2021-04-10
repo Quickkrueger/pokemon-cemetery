@@ -1,0 +1,14 @@
+{
+  "cemetery": [
+    {
+      "name": "Pikachu",
+      "species": "Pikachu",
+      "level": "5"
+    },
+    {
+      "name": "Steve",
+      "species": "Gengar",
+      "level": "10"
+    }
+    ]
+}
